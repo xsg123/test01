@@ -12,5 +12,9 @@ public class Test01 {
 		
 		int sum=x+y;
 	}
+	
+	public void dfs(){
+		System.out.println("dsad");
+	}
 
 }
